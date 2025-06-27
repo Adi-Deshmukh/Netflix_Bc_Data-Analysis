@@ -38,6 +38,7 @@ This project dives into Netflix’s dataset using Python and Jupyter Notebook to
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/netflix_data_analysis.git
+```
 
 # Navigate into the folder
 
@@ -63,12 +64,13 @@ jupyter notebook and run all cells in a proper order
 - seaborn
 - numpy
 
-You can install the required packages using:
+- You can install the required packages using:
 
 ```
 pip install pandas matplotlib seaborn numpy
 ```
 
+---
 
 ## Results & Insights
 
@@ -82,6 +84,7 @@ pip install pandas matplotlib seaborn numpy
 
 -Suggested potential strategic content directions based on trends
 
+---
 
 ## Author
 
@@ -90,9 +93,5 @@ Aditya Deshmukh
 -GitHub (https://github.com/Adi-Deshmukh)
 
 -LinkedIn (www.linkedin.com/in/aditya-deshmukh-2587ab1ba)
-
-
-
-
 
 
