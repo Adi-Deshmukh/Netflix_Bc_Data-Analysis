@@ -37,7 +37,7 @@ This project dives into Netflix’s dataset using Python and Jupyter Notebook to
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/netflix_data_analysis.git
+git clone https://github.com/Adi-Deshmukh/Netflix_Bc_Data-Analysis.git
 ```
 
 # Navigate into the folder
@@ -58,7 +58,7 @@ jupyter notebook and run all cells in a proper order
 
 
 ## Requirements
-- Python 3.x
+- Python 
 - pandas
 - matplotlib
 - seaborn
